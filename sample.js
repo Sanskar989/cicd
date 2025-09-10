@@ -1,0 +1,1 @@
+const AWS_ACCESS_KEYS = "ASDFG12345";
